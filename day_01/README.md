@@ -2,11 +2,9 @@
 
 Clojure code solution for Advent of Code day one puzzle
 
-## Usage
+## Overview
 
-I suggest to install Leiningen from https://leiningen.org/. Then run "lein run" in cloned directory.
-
-input.txt file was received from AoC and is probably (about) unique for each partitioner.
+Task was to solve "inverse captcha" in order to prove that protagonist is not a human.
 
 ## License
 

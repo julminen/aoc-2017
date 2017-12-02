@@ -2,11 +2,10 @@
 
 Clojure code solution for Advent of Code day two puzzle
 
-## Usage
+## Overview
 
-I suggest to install Leiningen from https://leiningen.org/. Then run "lein run" in cloned directory.
+Task was to calculate "checksums" of input file.
 
-input.txt file was received from AoC and is probably (about) unique for each partitioner.
 
 ## License
 
