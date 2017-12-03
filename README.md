@@ -4,7 +4,7 @@ Advent of Code 2017 solutions, written in Clojure
 
 * Day 1: Inverse captcha
 * Day 2: Checksums
-
+* Day 3: Two dimensional infinite memory with spirals!
 
 ## Usage
 
