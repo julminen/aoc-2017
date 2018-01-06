@@ -6,6 +6,8 @@ Clojure code solution for Advent of Code day one puzzle
 
 Task was to solve "inverse captcha" in order to prove that protagonist is not a human.
 
+<http://adventofcode.com/2017/day/1>
+
 ## License
 
 Copyright © 2017 julminen

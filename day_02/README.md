@@ -6,6 +6,7 @@ Clojure code solution for Advent of Code day two puzzle
 
 Task was to calculate "checksums" of input file.
 
+<http://adventofcode.com/2017/day/2>
 
 ## License
 

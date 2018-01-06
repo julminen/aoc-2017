@@ -8,6 +8,8 @@ Two tasks on an infinite two-dimensional grid filled in spiral form:
 * Find out distance to a given cell
 * When memory is filled in a certain way, find out then value of first cell which is larger than input
 
+<http://adventofcode.com/2017/day/3>
+
 ## License
 
 Copyright © 2017 julminen
